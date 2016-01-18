@@ -1,32 +1,25 @@
-<p>
-	1。你可以从下面的网站下载安卓版的Astrill应用程：<a
-		href="https://www.astrill.com/download.php" target="_blank">https://www.astrill.com/download.php</a>，然后点击Google
-	play 按钮。
-</p>
-<p>
-	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image40.png">
+<h3>一.客户端下载与安装</h3>
+<p>1.首先需要下载Astrill安桌应用，打开翻墙中心镜像，选择Astrill Windows版客户端下载：<a href="GreatFire下载中心"
+		target="_blank">https://github.com/greatfire/cc/</a> 
 </p>
 <p>或者你可以直接去Google play商店搜索Astrill VPN，如下面的截图：</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image39.png">
 </p>
-<p>2。点击安装按钮进行下载和安装应用程序，你需要点击确认安装过程。</p>
+<p>2.点击安装按钮进行下载和安装应用程序，你需要点击确认安装过程。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image00.png"> <img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image04.png"> 
 </p>
-<p>
-	3。如果您是在国内不能访问Google Play，请访问https://github.com/greatfire/cc来获取安装包 或扫描二维码下载。
-</p>
 <p></p>
-<p>4。安装完毕后点击应用程序，输入您的账户信息，登录即可使用。</p>
+<p>3.安装完毕后点击应用程序，输入您的账户信息，登录即可使用。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image54.png">
 </p>
-<p>5。你也可以从下拉列表中选择你需要的服务器，点击红色按钮可以开启VPN连接。</p>
+<p>4.你也可以从下拉列表中选择你需要的服务器，点击红色按钮可以开启VPN连接。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image01.png">
 </p>
-<p>6。你可能会看到一个确认的提示：是否允许创建一个VPN连接。如果你需要的话，确认提示。</p>
+<p>5.你可能会看到一个确认的提示：是否允许创建一个VPN连接。如果你需要的话，确认提示。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image51.png">
 </p>
@@ -34,7 +27,7 @@
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image02.png">
 </p>
-<h3>二。其他额外的设置功能说明</h3>
+<h3>二.其他额外的设置功能说明</h3>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image09.png">
 </p>

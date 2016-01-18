@@ -1,14 +1,6 @@
 <p>
-	首先需要下载一个官方客户端软件安装。下载地址：<a href="https://www.astrill.com/download.php"
-		target="_blank">https://www.astrill.com/download.php</a>
-</p>
-<p>
-	如图所示是windows系统版本的下载地址，Mirror #1 是一个下载地址，Mirror #2是另外一个下载地址，选择其中一个即可。<img
-		src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image21.png">
-</p>
-<p>点击Show all options可以显示所有平台的下载地址，其中就有Mac版本的下载地址，也有Linux版本的下载地址：</p>
-<p>
-	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image43.png">
+	首先需要下载客户端并安装。请使用您的电脑打开翻墙中心镜像，选择Astrill Windows版客户端下载：<a href="GreatFire下载中心"
+		target="_blank">https://github.com/greatfire/cc/</a>
 </p>
 <p> 下载完成后得到安装文件：</p>
 <p>
