@@ -6,22 +6,18 @@
 
 ![astrill-logo](https://cc.greatfire.org/img/astrill-logo.png)
 
->* [Astrill Windows版](https://github.com/greatfire/cc/raw/master/z/clients/astrill-setup-win-latest.exe)
+>* [Astrill Windows版](https://github.com/greatfire/cc/raw/master/z/clients/astrill-setup-win-latest.exe) [使用说明](https://github.com/greatfire/cc/blob/master/Astrill.Windows.md)
 
-![](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/astrill-setup-win-latest.exe.png)
+>* [Astrill Android版](https://github.com/greatfire/cc/raw/master/z/clients/astrillvpn-latest.apk) [使用说明](https://github.com/greatfire/cc/blob/master/Astrill.Android.md)
 
->* [Astrill Android版](https://github.com/greatfire/cc/raw/master/z/clients/astrillvpn-latest.apk)
-
-![](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/astrillvpn-latest.apk.png)
+![https://github.com/greatfire/cc/raw/master/z/clients/astrillvpn-latest.apk](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/astrillvpn-latest.apk.png)
 
 ![purevpn-logo](https://cc.greatfire.org/img/purevpn-logo.png)
 
->* [PureVPN Windows版](https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup-latest.exe)
+>* [PureVPN Windows版](https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup-latest.exe) [使用说明](https://github.com/greatfire/cc/blob/master/PureVPN.Windows.md)
 
-![](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/purevpn_setup-latest.exe.png)
+>* [PureVPN Android版](https://github.com/greatfire/cc/raw/master/z/clients/purevpnics-latest.apk)  **（国内暂时无法使用）** 
 
->* [PureVPN Android版](https://github.com/greatfire/cc/raw/master/z/clients/purevpnics-latest.apk)  **（国内暂时无法使用）**
-
-![](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/purevpnics-latest.apk.png)
+![https://github.com/greatfire/cc/raw/master/z/clients/purevpnics-latest.apk](https://raw.githubusercontent.com/greatfire/cc/master/z/img/QR%20code/purevpnics-latest.apk.png)
 
 如果您遇到任何问题，请反馈到<support@greatfire.org>
