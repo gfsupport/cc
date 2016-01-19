@@ -1,8 +1,8 @@
 <p>
-	首先需要下载客户端并安装。请使用您的电脑打开翻墙中心镜像，选择Astrill Windows版客户端下载：<a href="GreatFire下载中心"
-		target="_blank">https://github.com/greatfire/cc/</a>
+	首先需要下载客户端并安装。请使用您的电脑打开翻墙中心镜像，选择Astrill Windows版客户端下载：<a
+		href="https://github.com/greatfire/cc/" target="_blank">https://github.com/greatfire/cc/</a>
 </p>
-<p> 下载完成后得到安装文件：</p>
+<p>下载完成后得到安装文件：</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image14.png">
 </p>
