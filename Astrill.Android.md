@@ -1,5 +1,5 @@
 <h3>一.客户端下载与安装</h3>
-<p>1.首先需要下载Astrill安桌应用：<a href="Astrill安桌版"
+<p>1.首先需要下载Astrill安桌应用：<a href="https://github.com/greatfire/cc/raw/master/z/clients/astrillvpn-latest.apk"
 		target="_blank">https://github.com/greatfire/cc/raw/master/z/clients/astrillvpn-latest.apk</a> 
 </p>
 <p>或者你可以直接去Google play商店搜索Astrill VPN，如下面的截图：</p>
