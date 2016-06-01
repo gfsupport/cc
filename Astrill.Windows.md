@@ -1,11 +1,12 @@
 <p>
-	首先需要下载客户端并安装。请使用您的电脑打开翻墙中心镜像，选择Astrill Windows版客户端下载：<a href="https://github.com/greatfire/cc/" target="_blank">https://github.com/greatfire/cc/</a>
+	首先需要下载客户端并安装。请使用您的电脑打开翻墙中心镜像，选择Astrill Windows版客户端下载：<a
+		href="https://github.com/greatfire/cc/" target="_blank">https://github.com/greatfire/cc/</a>
 </p>
 <p>下载完成后得到安装文件：</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image14.png">
 </p>
-<p>双击下截的安装文件astrill-setup-win.exe， 可能会出现安全提示，点击同意安装即可。</p>
+<p>双击下截的安装文件 <a href="https://github.com/greatfire/cc/raw/master/z/clients/AstrillDialer.exe" target="_blank">AstrillDialer.exe</a>，可能会出现安全提示，点击同意安装即可。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image32.png">
 </p>
