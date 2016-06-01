@@ -6,7 +6,6 @@
 
 | | | | |
 | --- | --- | --- | --- |
-
 | Astrill | Android | <a href="https://github.com/greatfire/cc/raw/master/z/clients/com.astrill.astrillvpn.apk">com.astrill.astrillvpn.apk</a>
 | Astrill | Windows | <a href="https://github.com/greatfire/cc/raw/master/z/clients/AstrillDialer.exe">AstrillDialer.exe</a>
 | HideMyAss | Android | <a href="https://github.com/greatfire/cc/raw/master/z/clients/com.hidemyass.hidemyassprovpn.apk">com.hidemyass.hidemyassprovpn.apk</a>
