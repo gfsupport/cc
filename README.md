@@ -15,4 +15,3 @@
 | VPNSecure | Windows | <a href="https://github.com/greatfire/cc/raw/master/z/clients/VPNS_2.0.6.exe">VPNS_2.0.6.exe</a> | <a href="https://github.com/greatfire/cc/raw/master/z/clients/VPNS_2.0.6.exe"><img src="https://github.com/greatfire/cc/raw/master/z/img/qr/VPNSecure.Windows.png" /></a> | 指南
 
 如果您遇到任何问题，请反馈到 <support@greatfire.org>。
-
