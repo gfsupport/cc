@@ -1,9 +1,9 @@
 <h3>PureVPN 客户端的下载和安装</h3>
-<p><a href="https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup.exe" target="_blank">purevpn_setup.exe</a></p>
 <p>
-	1.首先需要下载客户端并安装。请使用您的电脑打开翻墙中心镜像，选择PureVPN Windows版客户端下载：<a
-		href="https://github.com/greatfire/cc/" target="_blank">https://github.com/greatfire/cc/</a>
+	1.首先需要下载PureVPN Windows客户端：请到<a href="https://github.com/greatfire/cc"
+		target="_blank">https://github.com/greatfire/cc</a>下载<a href="https://github.com/greatfire/cc/raw/master/z/clients/purevpn_setup.exe" target="_blank">purevpn_setup.exe</a>
 </p>
+
 <p>2.下载完成后打开并安装，点击“Next”。</p>
 <p>
 	<img src="https://raw.githubusercontent.com/greatfire/cc/master/z/img/guides/image10.png">
